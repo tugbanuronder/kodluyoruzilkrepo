@@ -25,7 +25,7 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# Proje Resmi
+## Proje Resmi
 
 ![image](aaa.png)
 
